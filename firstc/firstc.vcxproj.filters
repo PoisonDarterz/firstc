@@ -27,5 +27,20 @@
     <ClCompile Include="basics\input_and_output.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="basics\q22_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="basics\q22_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="basics\q31_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="basics\q31_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="basics\q71_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
