@@ -11,7 +11,7 @@
 
 #include <stdio.h>
 
-int conditionals() {
+int conditionals() { //main
     double marks = 85.0;
     char grade;
 

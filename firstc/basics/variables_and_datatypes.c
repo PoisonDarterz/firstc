@@ -1,7 +1,7 @@
 #include <stdio.h> // for input and output
 #include <stdbool.h> // for boolean datatype
 
-int v_and_d() {
+int v_and_d() { //main
 
     // Declare and initialise variables
     int fav_number = 10;

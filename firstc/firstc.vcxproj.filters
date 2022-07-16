@@ -24,5 +24,8 @@
     <ClCompile Include="basics\variables_and_datatypes.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="basics\input_and_output.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
