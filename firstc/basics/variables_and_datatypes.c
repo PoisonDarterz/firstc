@@ -18,8 +18,10 @@ int v_and_d() { //main
     printf("My favourite alphabet is %c.\n" , fav_alphabet);            // My favourite alphabet is A.
     printf("My favourite message is %s.\n" , fav_message);              // My favourite message is Hello World.
     printf("Am I married? %i\n" , is_married);                          // Am I married? 0.
+	
     // C boolean output gives 0 and 1 for false and true respectively. However true and false can be outputted using the following line:
     printf("Am I married? %s\n", is_married ? "true" : "false");        // Am I married? false. (Note the datatype change from %i to %s.)
+	
     printf("In math, pi has the value of %.8f." , PI);                  // In math, pi has the value of 3.141592653.
 
     return 0;

@@ -20,7 +20,7 @@ void output(int sum) {
 	printf("The sum of the two integers is: %d\n", sum);
 }
 
-int main() {
+int q71_1() { //main
 	int nums[2];
 	int* numsPtr = getInput(nums);
 	int sum = getSum(numsPtr);

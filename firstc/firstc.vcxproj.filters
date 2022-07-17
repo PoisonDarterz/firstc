@@ -42,5 +42,11 @@
     <ClCompile Include="basics\q71_1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="basics\testprogram.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
