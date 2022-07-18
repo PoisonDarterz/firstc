@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int test() { //main
 	int myNumbers[5] = { 10, 20, 30, 40, 50 };
 	int getSize = sizeof(myNumbers);
 	int getArrayLength = sizeof(myNumbers) / sizeof(int);

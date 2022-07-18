@@ -45,6 +45,12 @@
     <ClCompile Include="basics\testprogram.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="basics\prac1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="basics\prac2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

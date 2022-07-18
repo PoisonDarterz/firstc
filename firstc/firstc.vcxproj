@@ -135,6 +135,8 @@
     <ClCompile Include="basics\firstc.c" />
     <ClCompile Include="basics\conditionals.c" />
     <ClCompile Include="basics\input_and_output.c" />
+    <ClCompile Include="basics\prac1.c" />
+    <ClCompile Include="basics\prac2.c" />
     <ClCompile Include="basics\q22_2.c" />
     <ClCompile Include="basics\q22_4.c" />
     <ClCompile Include="basics\q31_2.c" />
